@@ -1,5 +1,5 @@
 # Latinha-3D
-apenas um projeto que fiz segundo o tutorial do LUN DEV no youtube. Recomendo d+!!
+apenas um projeto que fiz seguindo o tutorial do LUN DEV no youtube. Recomendo d+!!
 
 ## Projeto CSS Animado com Efeito 3D
 
